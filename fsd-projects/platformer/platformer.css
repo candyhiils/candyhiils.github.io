@@ -1,18 +1,17 @@
 body {
   margin: 0px;
-  background-color: #202737;
+  background-image: url("https://i.pinimg.com/736x/10/24/a1/1024a1795aa55ea1f41664009db3435f.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-canvas {
-  background-color: lightblue;
-  margin: 20px;
-  border-radius: 15px;
-  border: 5px solid rgba(118, 0, 233, 0.375);
-}
+
+
 
 img {
   display: none;
